@@ -1,7 +1,5 @@
 # newfoRepository
 test</br>
-
-''' C++
+```C++
 int a=0;
-
-'''
+```
